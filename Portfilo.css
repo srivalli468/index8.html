@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+header{
+    background-color: palevioletred;
+    padding: 20px;
+}
+img{
+    border-radius: 100px;
+}
+#Portfolio{
+    background-color: aqua;
+    padding: 10px;
+}
+footer{
+    color: blanchedalmond;
+    background-color: black;
+    padding: 10px;
+}
